@@ -32,8 +32,9 @@
 
 ## Проекты
 
-| Проект | Что сделал | Отчёт |
+| Проект | Что сделал | Отчёт и демо |
 | --- | --- | --- |
+| **[HealthValue Atlas: экономика здравоохранения](https://github.com/morenoler/healthvalue-atlas)** | Исследовал расходы на здравоохранение и смертность в 46 странах за 2010-2023 годы. Сравнил панельные модели и ML-прогнозы, создал интерактивный атлас. | [Отчёт](https://github.com/morenoler/healthvalue-atlas/blob/main/reports/ANALYSIS_RU.md) · [Сайт](https://healthvalue-atlas.alexeytitenkov.chatgpt.site)<br>Без VPN сайт не открывается. |
 | **[Продажи и удержание интернет-магазина](https://github.com/morenoler/retail-sales-retention)** | Очистил более миллиона строк Online Retail II, посчитал помесячные продажи и возврат покупателей по когортам. | [Результаты](https://github.com/morenoler/retail-sales-retention/blob/main/docs/report.md) |
 | **[Продуктовая аналитика Tiny-Cloud](https://github.com/morenoler/tiny-cloud-product-analytics)** | Описал события для приложения, реализовал запись событий и SQL-метрики по воронке и удержанию. Данные в отчёте смоделированы. | [Демоотчёт](https://github.com/morenoler/tiny-cloud-product-analytics/blob/main/docs/report.md) |
 | **[Классификация рамановских спектров](https://github.com/morenoler/raman-glucose-classification)** | Сравнил базовые модели для определения глюкозы. Разделил выборку по физическим лункам и проверил качество при слабом сигнале. | [Результаты](https://github.com/morenoler/raman-glucose-classification/blob/main/docs/report.md) |
