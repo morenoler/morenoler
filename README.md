@@ -19,14 +19,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="44" height="44" alt="Matplotlib" title="Matplotlib" />
 </p>
 
-<p align="center"><sub>Python · SQL / SQLite · pandas · NumPy · scikit-learn · Matplotlib</sub></p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions" title="GitHub Actions" />
-</p>
-
-<p align="center"><sub>Код и проверки: Git · GitHub Actions</sub></p>
+| Направление | Технологии и инструменты |
+| --- | --- |
+| Анализ данных | Python, pandas, NumPy, Jupyter Notebook |
+| Статистика и ML | SciPy, statsmodels, scikit-learn, PyTorch |
+| SQL и базы данных | SQL, SQLite, MySQL, SQLAlchemy |
+| Визуализация | Matplotlib, Seaborn |
+| Backend и автоматизация | Flask, FastAPI, Django, REST API, Requests, asyncio, aiogram |
+| Веб-интерфейсы | HTML, CSS, JavaScript |
+| Тестирование и работа с кодом | pytest, Playwright, Git, GitLab, GitHub Actions |
+| Развёртывание | Linux, Ubuntu, Nginx, SSL |
 
 ---
 
